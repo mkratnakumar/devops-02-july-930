@@ -38,7 +38,7 @@ mvn archetype:generate \
 
    <repository>
        <id>nexusRepo</id>
-       <url>http://1172.31.46.218:8081/repository/maven-releases/</url>
+       <url>http://172.31.46.218:8081/repository/maven-releases/</url>
    </repository>
 </distributionManagement>
 </project>
